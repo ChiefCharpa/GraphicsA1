@@ -4370,3 +4370,356 @@ Sampler Limit: 32
 [2025.11.07-11.20.19:726][613]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.11.07-11.20.19:726][613]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validating asset
 [2025.11.07-11.20.19:761][613]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.07-11.21.05:290][870]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.11.07-11.21.06:591][979]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.11.07-11.21.07:997][ 97]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.11.07-11.21.09:505][224]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.11.07-11.21.11:332][339]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.11.07-11.21.12:702][454]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.11.07-11.21.15:186][665]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.11.07-11.21.36:462][436]Cmd: DUPLICATE
+[2025.11.07-11.21.36:462][436]Cmd: ACTOR DUPLICATE
+[2025.11.07-11.22.22:109][105]Cmd: DUPLICATE
+[2025.11.07-11.22.22:109][105]Cmd: ACTOR DUPLICATE
+[2025.11.07-11.22.26:065][456]Cmd: DELETE
+[2025.11.07-11.22.26:065][456]Cmd: ACTOR DELETE
+[2025.11.07-11.22.26:067][456]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.07-11.22.26:085][456]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.11.07-11.22.26:091][456]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2025.11.07-11.22.30:702][852]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4198.066406
+[2025.11.07-11.22.30:824][863]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.07-11.22.30:824][863]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4198.177246, Update Interval: 325.512878
+[2025.11.07-11.22.37:045][412]Cmd: DUPLICATE
+[2025.11.07-11.22.37:045][412]Cmd: ACTOR DUPLICATE
+[2025.11.07-11.23.16:856][514]Cmd: TRANSACTION UNDO
+[2025.11.07-11.23.16:856][514]LogEditorTransaction: Undo Move Elements
+[2025.11.07-11.23.26:902][241]Cmd: DUPLICATE
+[2025.11.07-11.23.26:902][241]Cmd: ACTOR DUPLICATE
+[2025.11.07-11.23.56:484][550]Cmd: TRANSACTION UNDO
+[2025.11.07-11.23.56:484][550]LogEditorTransaction: Undo Move Elements
+[2025.11.07-11.23.57:527][607]Cmd: TRANSACTION UNDO
+[2025.11.07-11.23.57:527][607]LogEditorTransaction: Undo Move Elements
+[2025.11.07-11.23.58:114][643]Cmd: TRANSACTION UNDO
+[2025.11.07-11.23.58:114][643]LogEditorTransaction: Undo Remove Components
+[2025.11.07-11.24.07:564][391]Cmd: TRANSACTION UNDO
+[2025.11.07-11.24.07:564][391]LogEditorTransaction: Undo Move Elements
+[2025.11.07-11.24.10:637][596]Cmd: TRANSACTION UNDO
+[2025.11.07-11.24.10:639][596]LogEditorTransaction: Undo Move Elements
+[2025.11.07-11.24.32:825][243]Cmd: DUPLICATE
+[2025.11.07-11.24.32:825][243]Cmd: ACTOR DUPLICATE
+[2025.11.07-11.24.41:854][980]Cmd: DUPLICATE
+[2025.11.07-11.24.41:854][980]Cmd: ACTOR DUPLICATE
+[2025.11.07-11.24.46:314][316]Cmd: DUPLICATE
+[2025.11.07-11.24.46:314][316]Cmd: ACTOR DUPLICATE
+[2025.11.07-11.24.50:890][704]Cmd: DUPLICATE
+[2025.11.07-11.24.50:890][704]Cmd: ACTOR DUPLICATE
+[2025.11.07-11.25.11:942][411]Cmd: DUPLICATE
+[2025.11.07-11.25.11:942][411]Cmd: ACTOR DUPLICATE
+[2025.11.07-11.25.52:388][591]Cmd: DUPLICATE
+[2025.11.07-11.25.52:388][591]Cmd: ACTOR DUPLICATE
+[2025.11.07-11.26.04:309][634]Cmd: DUPLICATE
+[2025.11.07-11.26.04:309][634]Cmd: ACTOR DUPLICATE
+[2025.11.07-11.26.25:838][436]Cmd: DUPLICATE
+[2025.11.07-11.26.25:838][436]Cmd: ACTOR DUPLICATE
+[2025.11.07-11.27.35:295][876]Cmd: DUPLICATE
+[2025.11.07-11.27.35:295][876]Cmd: ACTOR DUPLICATE
+[2025.11.07-11.27.49:004][889]Cmd: DUPLICATE
+[2025.11.07-11.27.49:004][889]Cmd: ACTOR DUPLICATE
+[2025.11.07-11.28.03:190][923]Cmd: DUPLICATE
+[2025.11.07-11.28.03:190][923]Cmd: ACTOR DUPLICATE
+[2025.11.07-11.28.39:239][786]Cmd: DUPLICATE
+[2025.11.07-11.28.39:239][786]Cmd: ACTOR DUPLICATE
+[2025.11.07-11.28.44:568][199]Cmd: DUPLICATE
+[2025.11.07-11.28.44:568][199]Cmd: ACTOR DUPLICATE
+[2025.11.07-11.28.52:194][801]Cmd: DUPLICATE
+[2025.11.07-11.28.52:194][801]Cmd: ACTOR DUPLICATE
+[2025.11.07-11.28.55:893][ 93]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4583.237793
+[2025.11.07-11.28.56:038][106]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.07-11.28.56:038][106]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4583.373047, Update Interval: 338.508240
+[2025.11.07-11.28.57:864][222]Cmd: DUPLICATE
+[2025.11.07-11.28.57:864][222]Cmd: ACTOR DUPLICATE
+[2025.11.07-11.29.03:551][704]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.07-11.29.03:624][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.11.07-11.29.03:642][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.11.07-11.29.03:656][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.11.07-11.29.03:666][704]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/HY/Q7CPP7VHOXBAMAJI90W626
+[2025.11.07-11.29.03:666][704]LogSavePackage: Moving 'C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Saved/Q7CPP7VHOXBAMAJI90W626EC8238BD4F9171F67F0733935CB9319F.tmp' to 'C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/HY/Q7CPP7VHOXBAMAJI90W626.uasset'
+[2025.11.07-11.29.03:675][704]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/TT/HY1VR0D6EJCA2TJJQZHPT9
+[2025.11.07-11.29.03:677][704]LogSavePackage: Moving 'C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Saved/HY1VR0D6EJCA2TJJQZHPT9052DA7BC4367C2188B20C3B47B0A99CB.tmp' to 'C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/TT/HY1VR0D6EJCA2TJJQZHPT9.uasset'
+[2025.11.07-11.29.03:684][704]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/TG/CVAPB4MOC5E0Y9HXLTSJT2
+[2025.11.07-11.29.03:685][704]LogSavePackage: Moving 'C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Saved/CVAPB4MOC5E0Y9HXLTSJT2625CCC024E7AB9FC1A0790B8D087F15A.tmp' to 'C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/TG/CVAPB4MOC5E0Y9HXLTSJT2.uasset'
+[2025.11.07-11.29.03:692][704]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/XQ/K19W26WS50ZWKQVY2GYOC3
+[2025.11.07-11.29.03:692][704]LogSavePackage: Moving 'C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Saved/K19W26WS50ZWKQVY2GYOC39501904E411272EA0E9B70B5B303D87F.tmp' to 'C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/XQ/K19W26WS50ZWKQVY2GYOC3.uasset'
+[2025.11.07-11.29.03:700][704]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/SQ/NNSR7U59CKH4T9I8Q8QZJP
+[2025.11.07-11.29.03:700][704]LogSavePackage: Moving 'C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Saved/NNSR7U59CKH4T9I8Q8QZJP963A05DB4896476FE99F13AA1A6E495F.tmp' to 'C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/SQ/NNSR7U59CKH4T9I8Q8QZJP.uasset'
+[2025.11.07-11.29.03:708][704]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/FH/2MVUCLV0NPXY7WZ6KN36P9
+[2025.11.07-11.29.03:708][704]LogSavePackage: Moving 'C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Saved/2MVUCLV0NPXY7WZ6KN36P99040D0394072AF11271848A05C0C5710.tmp' to 'C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/FH/2MVUCLV0NPXY7WZ6KN36P9.uasset'
+[2025.11.07-11.29.03:715][704]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/FY/FSN8NYMDXWHCCMDVOXSW17
+[2025.11.07-11.29.03:715][704]LogSavePackage: Moving 'C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Saved/FSN8NYMDXWHCCMDVOXSW1719376EF74AE7F02F8DC12F80482FC0D6.tmp' to 'C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/FY/FSN8NYMDXWHCCMDVOXSW17.uasset'
+[2025.11.07-11.29.03:722][704]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/5K/76HDEBUA7KZ6AX14PSRI6F
+[2025.11.07-11.29.03:722][704]LogSavePackage: Moving 'C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Saved/76HDEBUA7KZ6AX14PSRI6F4D2E05DB486145A6366AB89AA3F0D4BD.tmp' to 'C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/5K/76HDEBUA7KZ6AX14PSRI6F.uasset'
+[2025.11.07-11.29.03:731][704]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/G8/O9D5CJXQM2DAOUKWSTPGRL
+[2025.11.07-11.29.03:731][704]LogSavePackage: Moving 'C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Saved/O9D5CJXQM2DAOUKWSTPGRL066AE6D549C235DFB55163B8BF0C01CD.tmp' to 'C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/G8/O9D5CJXQM2DAOUKWSTPGRL.uasset'
+[2025.11.07-11.29.03:739][704]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/D4/A5YIF8YDNSAA5SYV6YHWXL
+[2025.11.07-11.29.03:739][704]LogSavePackage: Moving 'C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Saved/A5YIF8YDNSAA5SYV6YHWXL2304EC274B13EEE3E8020AB7DB28B003.tmp' to 'C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/D4/A5YIF8YDNSAA5SYV6YHWXL.uasset'
+[2025.11.07-11.29.03:746][704]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/F/4O/ABJVQ6GDIOFMQH3PP43Q0Y
+[2025.11.07-11.29.03:746][704]LogSavePackage: Moving 'C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Saved/ABJVQ6GDIOFMQH3PP43Q0Y2D080C714757C21625937B9933E3EEA1.tmp' to 'C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/F/4O/ABJVQ6GDIOFMQH3PP43Q0Y.uasset'
+[2025.11.07-11.29.03:753][704]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/VQ/28Z6FHCUT21E3LTCGH9ZOE
+[2025.11.07-11.29.03:753][704]LogSavePackage: Moving 'C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Saved/28Z6FHCUT21E3LTCGH9ZOE91C8D5B443315A0513AA7A9D5DE8F257.tmp' to 'C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/VQ/28Z6FHCUT21E3LTCGH9ZOE.uasset'
+[2025.11.07-11.29.03:762][704]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/5E/QM9OC4IEADN754WROJKLRW
+[2025.11.07-11.29.03:762][704]LogSavePackage: Moving 'C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Saved/QM9OC4IEADN754WROJKLRWFAE29D824D5A3580608D9EBD8E2C8CC3.tmp' to 'C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/5E/QM9OC4IEADN754WROJKLRW.uasset'
+[2025.11.07-11.29.03:770][704]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/BT/2IXWVGH4272O8HMKT8H9PR
+[2025.11.07-11.29.03:771][704]LogSavePackage: Moving 'C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Saved/2IXWVGH4272O8HMKT8H9PR8A8BFCCE4E97F60F32996A8372CF29CD.tmp' to 'C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/BT/2IXWVGH4272O8HMKT8H9PR.uasset'
+[2025.11.07-11.29.03:778][704]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/2P/2HYJDR6AII2XOPXLTMZ6EI
+[2025.11.07-11.29.03:778][704]LogSavePackage: Moving 'C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Saved/2HYJDR6AII2XOPXLTMZ6EI87EC8F8E4759A2370D270586F16AF8C6.tmp' to 'C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/2P/2HYJDR6AII2XOPXLTMZ6EI.uasset'
+[2025.11.07-11.29.03:786][704]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/PJ/JDLACOQSGVNDYNI66HG2N0
+[2025.11.07-11.29.03:786][704]LogSavePackage: Moving 'C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Saved/JDLACOQSGVNDYNI66HG2N0D9288F7E4CF9E202CC0B068E59C5A82A.tmp' to 'C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/PJ/JDLACOQSGVNDYNI66HG2N0.uasset'
+[2025.11.07-11.29.03:793][704]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/6D/SZZX9VM6SRLVEKZTJG7LE4
+[2025.11.07-11.29.03:793][704]LogSavePackage: Moving 'C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Saved/SZZX9VM6SRLVEKZTJG7LE47473993D42DCD877BF7751A85023F913.tmp' to 'C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/6D/SZZX9VM6SRLVEKZTJG7LE4.uasset'
+[2025.11.07-11.29.03:805][704]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/S0/YSC2RZLLXISCH91CNL2SIR
+[2025.11.07-11.29.03:805][704]LogSavePackage: Moving 'C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Saved/YSC2RZLLXISCH91CNL2SIR465D44034FD1D7419220BBAFB9B379E0.tmp' to 'C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/S0/YSC2RZLLXISCH91CNL2SIR.uasset'
+[2025.11.07-11.29.03:812][704]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/Z5/2C7BHMB62FU5UJUE5XK6JT
+[2025.11.07-11.29.03:812][704]LogSavePackage: Moving 'C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Saved/2C7BHMB62FU5UJUE5XK6JT68A371144A3AE69ACB0F9CB04DA7B8B5.tmp' to 'C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/Z5/2C7BHMB62FU5UJUE5XK6JT.uasset'
+[2025.11.07-11.29.03:819][704]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/3H/QR30U13R3ED8ZX0AOGH7JH
+[2025.11.07-11.29.03:819][704]LogSavePackage: Moving 'C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Saved/QR30U13R3ED8ZX0AOGH7JH936062BD4DF0C53B4D9CF5B2F0D5D03C.tmp' to 'C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/3H/QR30U13R3ED8ZX0AOGH7JH.uasset'
+[2025.11.07-11.29.03:826][704]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/8C/A64Z1QRXQWJHLV49S5Q3ZR
+[2025.11.07-11.29.03:827][704]LogSavePackage: Moving 'C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Saved/A64Z1QRXQWJHLV49S5Q3ZR03E31E8443F3F88298ED38AC3162E673.tmp' to 'C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/8C/A64Z1QRXQWJHLV49S5Q3ZR.uasset'
+[2025.11.07-11.29.03:838][704]LogFileHelpers: InternalPromptForCheckoutAndSave took 286.494 ms (total: 1.36 sec)
+[2025.11.07-11.29.03:884][704]LogContentValidation: Display: Starting to validate 21 assets
+[2025.11.07-11.29.03:885][704]LogContentValidation: Enabled validators:
+[2025.11.07-11.29.03:885][704]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.07-11.29.03:885][704]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.07-11.29.03:885][704]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.07-11.29.03:885][704]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.07-11.29.03:885][704]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.07-11.29.03:885][704]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.07-11.29.03:885][704]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validating asset
+[2025.11.07-11.29.03:924][704]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.07-11.29.09:384][134]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.07-11.29.09:445][134]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Materials/Water] ([1] browsable assets)...
+[2025.11.07-11.29.09:445][134]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Water]
+[2025.11.07-11.29.09:445][134]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Water" FILE="C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Content/Materials/Water.uasset" SILENT=true
+[2025.11.07-11.29.09:454][134]LogSavePackage: Moving output files for package: /Game/Materials/Water
+[2025.11.07-11.29.09:454][134]LogSavePackage: Moving 'C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Saved/Water1F3CB06841277D336D8417AE00CB31F7.tmp' to 'C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Content/Materials/Water.uasset'
+[2025.11.07-11.29.09:466][134]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.297 ms (total: 1.44 sec)
+[2025.11.07-11.29.09:505][134]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.07-11.29.09:505][134]LogContentValidation: Enabled validators:
+[2025.11.07-11.29.09:505][134]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.07-11.29.09:505][134]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.07-11.29.09:505][134]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.07-11.29.09:505][134]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.07-11.29.09:505][134]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.07-11.29.09:505][134]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.07-11.29.09:505][134]AssetCheck: /Game/Materials/Water Validating asset
+[2025.11.07-11.29.09:553][134]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.07-11.29.10:566][194]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.07-11.29.10:634][194]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/LampLight] ([1] browsable assets)...
+[2025.11.07-11.29.10:643][194]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/LampLight.LampLight]
+[2025.11.07-11.29.10:643][194]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/LampLight]
+[2025.11.07-11.29.10:643][194]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/LampLight" FILE="C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Content/Materials/LampLight.uasset" SILENT=true
+[2025.11.07-11.29.10:652][194]LogSavePackage: Moving output files for package: /Game/Materials/LampLight
+[2025.11.07-11.29.10:652][194]LogSavePackage: Moving 'C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Saved/LampLight4794065842390C9D6AE9FF9F551C4890.tmp' to 'C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Content/Materials/LampLight.uasset'
+[2025.11.07-11.29.10:663][194]LogFileHelpers: InternalPromptForCheckoutAndSave took 96.337 ms (total: 1.54 sec)
+[2025.11.07-11.29.10:709][194]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.07-11.29.10:709][194]LogContentValidation: Enabled validators:
+[2025.11.07-11.29.10:709][194]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.07-11.29.10:709][194]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.07-11.29.10:709][194]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.07-11.29.10:709][194]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.07-11.29.10:709][194]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.07-11.29.10:709][194]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.07-11.29.10:709][194]AssetCheck: /Game/Materials/LampLight Validating asset
+[2025.11.07-11.29.10:732][194]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.07-11.29.52:713][535]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.07-11.29.52:785][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.11.07-11.29.52:804][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.11.07-11.29.52:816][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2025.11.07-11.29.52:824][535]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/N1/NVC7C377SCIKLX34DXT6WS
+[2025.11.07-11.29.52:824][535]LogSavePackage: Moving 'C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Saved/NVC7C377SCIKLX34DXT6WSF87EE3264FF3AEF354E6E5898D81CC9A.tmp' to 'C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/N1/NVC7C377SCIKLX34DXT6WS.uasset'
+[2025.11.07-11.29.52:833][535]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/E2/C11H90JESVUZYC6EFRXJOB
+[2025.11.07-11.29.52:834][535]LogSavePackage: Moving 'C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Saved/C11H90JESVUZYC6EFRXJOB6DF19F9949C9354D90DF0A87DFC02F71.tmp' to 'C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/E2/C11H90JESVUZYC6EFRXJOB.uasset'
+[2025.11.07-11.29.52:841][535]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/0A/MYZRE6DCBHBMMH8EL1C78P
+[2025.11.07-11.29.52:842][535]LogSavePackage: Moving 'C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Saved/MYZRE6DCBHBMMH8EL1C78PBB0B0841469DD1B3374D868796754CBE.tmp' to 'C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/0A/MYZRE6DCBHBMMH8EL1C78P.uasset'
+[2025.11.07-11.29.52:849][535]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/VV/YMKLYE0UECF0K7ZGRN0WHR
+[2025.11.07-11.29.52:849][535]LogSavePackage: Moving 'C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Saved/YMKLYE0UECF0K7ZGRN0WHRAA1D4E784F1027CBDDC8BBB7E9D905E5.tmp' to 'C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/VV/YMKLYE0UECF0K7ZGRN0WHR.uasset'
+[2025.11.07-11.29.52:861][535]LogFileHelpers: InternalPromptForCheckoutAndSave took 147.247 ms (total: 1.69 sec)
+[2025.11.07-11.29.52:903][535]LogContentValidation: Display: Starting to validate 4 assets
+[2025.11.07-11.29.52:903][535]LogContentValidation: Enabled validators:
+[2025.11.07-11.29.52:903][535]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.07-11.29.52:903][535]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.07-11.29.52:903][535]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.07-11.29.52:903][535]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.07-11.29.52:903][535]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.07-11.29.52:903][535]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.07-11.29.52:903][535]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validating asset
+[2025.11.07-11.29.53:436][569]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.07-11.29.53:441][569]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.11.07-11.29.53:441][569]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2025.11.07-11.29.53:442][569]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 506 us (total: 4.385 ms)
+[2025.11.07-11.29.53:442][569]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.07-11.29.53:464][569]LogPlayLevel: Display: Creating online subsystem for client :Context_10
+[2025.11.07-11.29.53:466][569]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2025.11.07-11.29.53:485][570]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.11.07-11.29.53:489][570]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.11.07-11.29.53:490][570]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 751 us (total: 2.018 ms)
+[2025.11.07-11.29.53:490][570]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004760s)
+[2025.11.07-11.29.53:490][570]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.004803s)
+[2025.11.07-11.29.53:504][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.11.07-11.29.53:507][570]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2025.11.07-11.29.53:508][570]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.11.07-11.29.53:508][570]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.11.07-11.29.53:508][570]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.11.07-11.29.53:508][570]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.11.07-11.29.53:509][570]LogWorldPartition: Display: WorldPartition initialize took 995 us (total: 91.817 ms)
+[2025.11.07-11.29.53:509][570]LogPlayLevel: PIE: World Init took: (0.002536s)
+[2025.11.07-11.29.53:509][570]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.11.07-11.29.53:509][570]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.07-11.29.53:509][570]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.07-11.29.53:509][570]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.07-11.29.53:509][570]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.07-11.29.53:509][570]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.07-11.29.53:509][570]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.07-11.29.53:509][570]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.07-11.29.53:509][570]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.07-11.29.53:509][570]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.07-11.29.53:509][570]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.07-11.29.53:509][570]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.07-11.29.53:511][570]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.07-11.29.53:536][570]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (2- Realtek(R) Audio)
+[2025.11.07-11.29.53:537][570]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.07-11.29.53:537][570]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.07-11.29.53:537][570]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.07-11.29.53:538][570]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.11.07-11.29.53:538][570]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.11.07-11.29.53:539][570]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.11.07-11.29.53:539][570]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.11.07-11.29.53:539][570]LogInit: FAudioDevice initialized with ID 5.
+[2025.11.07-11.29.53:539][570]LogAudio: Display: Audio Device (ID: 5) registered with world 'Lvl_ThirdPerson'.
+[2025.11.07-11.29.53:539][570]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.11.07-11.29.53:543][570]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.11.07-11.29.53:545][570]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2025.11.07-11.29.53
+[2025.11.07-11.29.53:545][570]LogWorld: Bringing up level for play took: 0.001763
+[2025.11.07-11.29.53:550][570]PIE: Server logged in
+[2025.11.07-11.29.53:551][570]PIE: Play in editor total start time 0.111 seconds.
+[2025.11.07-11.29.53:597][571]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.07-11.30.11:655][ 25]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.07-11.30.11:655][ 25]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.11.07-11.30.11:655][ 25]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2025.11.07-11.30.11:655][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-11.30.11:655][ 25]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.11.07-11.30.11:658][ 25]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.07-11.30.11:660][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-11.30.11:673][ 25]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.07-11.30.11:673][ 25]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.11.07-11.30.11:673][ 25]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=4
+[2025.11.07-11.30.11:674][ 25]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=2
+[2025.11.07-11.30.11:677][ 25]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.07-11.30.11:679][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.11.07-11.30.11:737][ 26]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2025.11.07-11.30.24:911][ 43]Cmd: DUPLICATE
+[2025.11.07-11.30.24:911][ 43]Cmd: ACTOR DUPLICATE
+[2025.11.07-11.30.34:497][772]Cmd: DUPLICATE
+[2025.11.07-11.30.34:497][772]Cmd: ACTOR DUPLICATE
+[2025.11.07-11.30.48:512][863]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.07-11.30.48:570][863]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.11.07-11.30.48:585][863]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2025.11.07-11.30.48:597][863]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.11.07-11.30.48:607][863]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/U2/P67DXUID7OIE04GCH46VX9
+[2025.11.07-11.30.48:607][863]LogSavePackage: Moving 'C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Saved/P67DXUID7OIE04GCH46VX95929B694461234E30BA92CA32382065F.tmp' to 'C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/U2/P67DXUID7OIE04GCH46VX9.uasset'
+[2025.11.07-11.30.48:615][863]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/TQ/Q6BH5NSSDJ9G69CPJ184FV
+[2025.11.07-11.30.48:615][863]LogSavePackage: Moving 'C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Saved/Q6BH5NSSDJ9G69CPJ184FV9518567B412E991344358BB8F0EEEF10.tmp' to 'C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/TQ/Q6BH5NSSDJ9G69CPJ184FV.uasset'
+[2025.11.07-11.30.48:627][863]LogFileHelpers: InternalPromptForCheckoutAndSave took 115.189 ms (total: 1.80 sec)
+[2025.11.07-11.30.48:669][863]LogContentValidation: Display: Starting to validate 2 assets
+[2025.11.07-11.30.48:669][863]LogContentValidation: Enabled validators:
+[2025.11.07-11.30.48:669][863]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.07-11.30.48:669][863]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.07-11.30.48:669][863]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.07-11.30.48:669][863]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.07-11.30.48:669][863]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.07-11.30.48:669][863]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.07-11.30.48:669][863]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validating asset
+[2025.11.07-11.30.48:709][863]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.07-11.30.55:937][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.11.07-11.30.57:891][ 97]LogSlate: Window 'Save Content' being destroyed
+[2025.11.07-11.30.57:929][ 97]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.07-11.30.57:962][ 97]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/BrickWall_Mat] ([1] browsable assets)...
+[2025.11.07-11.30.57:962][ 97]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/BrickWall_Mat]
+[2025.11.07-11.30.57:962][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/BrickWall_Mat" FILE="C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Content/Textures/BrickWall_Mat.uasset" SILENT=true
+[2025.11.07-11.30.57:970][ 97]LogSavePackage: Moving output files for package: /Game/Textures/BrickWall_Mat
+[2025.11.07-11.30.57:970][ 97]LogSavePackage: Moving 'C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Saved/BrickWall_MatE16D89A84558E9323A23D79B45512416.tmp' to 'C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Content/Textures/BrickWall_Mat.uasset'
+[2025.11.07-11.30.57:971][ 97]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/stoneFloorimg] ([1] browsable assets)...
+[2025.11.07-11.30.57:971][ 97]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/stoneFloorimg]
+[2025.11.07-11.30.57:971][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/stoneFloorimg" FILE="C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Content/Textures/stoneFloorimg.uasset" SILENT=true
+[2025.11.07-11.30.57:981][ 97]LogSavePackage: Moving output files for package: /Game/Textures/stoneFloorimg
+[2025.11.07-11.30.57:981][ 97]LogSavePackage: Moving 'C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Saved/stoneFloorimg4027FD38477832E750E8A38D43D5D7EA.tmp' to 'C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Content/Textures/stoneFloorimg.uasset'
+[2025.11.07-11.30.57:993][ 97]LogFileHelpers: InternalPromptForCheckoutAndSave took 64.158 ms (total: 1.87 sec)
+[2025.11.07-11.30.58:023][ 97]LogStall: Shutdown...
+[2025.11.07-11.30.58:023][ 97]LogStall: Shutdown complete.
+[2025.11.07-11.30.58:044][ 97]LogSlate: Window 'GraphicsAssessment1 - Unreal Editor' being destroyed
+[2025.11.07-11.30.58:150][ 97]LogContentValidation: Display: Starting to validate 2 assets
+[2025.11.07-11.30.58:150][ 97]LogContentValidation: Enabled validators:
+[2025.11.07-11.30.58:150][ 97]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.07-11.30.58:150][ 97]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.07-11.30.58:150][ 97]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.07-11.30.58:150][ 97]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.07-11.30.58:150][ 97]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.07-11.30.58:150][ 97]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.07-11.30.58:150][ 97]AssetCheck: /Game/Textures/BrickWall_Mat Validating asset
+[2025.11.07-11.30.58:150][ 97]AssetCheck: /Game/Textures/stoneFloorimg Validating asset
+[2025.11.07-11.30.58:151][ 97]Cmd: QUIT_EDITOR
+[2025.11.07-11.30.58:151][ 97]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.11.07-11.30.58:152][ 97]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/Users/harry_y4xq29g/OneDrive/Documents/GitHub/GraphicsA1/GraphicsAssessment1/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.07-11.30.58:155][ 98]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.11.07-11.30.58:155][ 98]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.11.07-11.30.58:155][ 98]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.11.07-11.30.58:155][ 98]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2025.11.07-11.30.58:155][ 98]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-11.30.58:155][ 98]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.11.07-11.30.58:163][ 98]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.11.07-11.30.58:163][ 98]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2025.11.07-11.30.58:163][ 98]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.11.07-11.30.58:180][ 98]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.11.07-11.30.58:180][ 98]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-11.30.58:180][ 98]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.11.07-11.30.58:180][ 98]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-11.30.58:181][ 98]LogRuntimeTelemetry: Recording EnginePreExit events
+[2025.11.07-11.30.58:181][ 98]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.11.07-11.30.58:182][ 98]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2025.11.07-11.30.59:173][ 98]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.11.07-11.30.59:173][ 98]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.11.07-11.30.59:173][ 98]LogAudio: Display: Audio Device unregistered from world 'Lvl_ThirdPerson'.
+[2025.11.07-11.30.59:173][ 98]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.11.07-11.30.59:173][ 98]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2025.11.07-11.30.59:175][ 98]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2025.11.07-11.30.59:190][ 98]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.11.07-11.30.59:190][ 98]LogAudio: Display: Audio Device Manager Shutdown
+[2025.11.07-11.30.59:190][ 98]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2025.11.07-11.30.59:193][ 98]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.11.07-11.30.59:193][ 98]LogExit: Preparing to exit.
+[2025.11.07-11.30.59:223][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.11.07-11.30.59:664][ 98]LogEditorDataStorage: Deinitializing
+[2025.11.07-11.30.59:756][ 98]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.11.07-11.30.59:780][ 98]LogExit: Editor shut down
+[2025.11.07-11.30.59:783][ 98]LogExit: Transaction tracking system shut down
+[2025.11.07-11.30.59:910][ 98]LogExit: Object subsystem successfully closed.
+[2025.11.07-11.30.59:951][ 98]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.11.07-11.31.00:004][ 98]LogMemoryProfiler: Shutdown
+[2025.11.07-11.31.00:004][ 98]LogNetworkingProfiler: Shutdown
+[2025.11.07-11.31.00:004][ 98]LoadingProfiler: Shutdown
+[2025.11.07-11.31.00:004][ 98]LogTimingProfiler: Shutdown
+[2025.11.07-11.31.00:004][ 98]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2025.11.07-11.31.00:004][ 98]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2025.11.07-11.31.00:322][ 98]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.11.07-11.31.00:326][ 98]LogNFORDenoise: NFORDenoise function shutting down
+[2025.11.07-11.31.00:335][ 98]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.11.07-11.31.00:335][ 98]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBBEF7819-4454-3C99-DCB9-5D93E7D841EF%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=1f6bdc0142a96ca175e5e6b374b9b483%7C801c4b5d1f424a708d7a66e21dec1060%7Cba7e3a3a-f6ee-4992-8300-565e2041efe3&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.11.07-11.31.00:875][ 98]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.11.07-11.31.00:875][ 98]RenderDocPlugin: plugin has been unloaded.
+[2025.11.07-11.31.00:878][ 98]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.11.07-11.31.00:878][ 98]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.11.07-11.31.00:878][ 98]LogPakFile: Destroying PakPlatformFile
+[2025.11.07-11.31.01:307][ 98]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.11.07-11.31.01:352][ 98]LogExit: Exiting.
+[2025.11.07-11.31.01:368][ 98]Log file closed, 11/07/25 11:31:01
